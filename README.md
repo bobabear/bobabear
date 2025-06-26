@@ -1,6 +1,6 @@
 # Hi, I'm Amanda👋🏼
 ## 💫 About Me:
-👩‍💻 Curious coder with a passion for blending tech and design.<br>🎨 Studying CS + Design Thinking, diving into web apps, UX/UI, and creative problem-solving.<br>🛠️ Currently building cool stuff, breaking things (on purpose), and learning by doing.<br>📍 Based in the DMV area | Always down to collaborate and create!
+👩‍💻 Curious coder with a passion for blending tech and design.<br>🎨 Studying CS + Design Thinking, diving into web apps, UX/UI, and creative problem-solving.<br>🛠️ Currently building cool projects and learning something new every day.<br>📍 Based in the DMV area | Always down to collaborate and create!
 
 
 ## 🌐 Socials:
