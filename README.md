@@ -41,7 +41,7 @@
       "
     >
       <img
-        src="https://img.shields.io/badge/Email-Say%20Hello-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"
+        src="https://img.shields.io/badge/Email-Say%20Hello-FFB6C1?style=for-the-badge&logoColor=white"
         alt="Email"
       />
     </div>
