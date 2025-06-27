@@ -1,22 +1,68 @@
-# Hi, I'm Amanda👋🏼
-## 💫 About Me:
-👩‍💻 Curious coder with a passion for blending tech and design.<br>🎨 Studying CS + Design Thinking, diving into web apps, UX/UI, and creative problem-solving.<br>🛠️ Currently building cool projects and learning something new every day.<br>📍 Based in the DMV area | Always down to collaborate and create!
+<!-- README.md -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" alt="Cute coding gif" width="200"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amandaachu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amandaachuu@gmail.com) 
-
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bobabear&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bobabear&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bobabear&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bobabear&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi there! I’m Amanda 🌸👋</h1>
+<p align="center"><em>Curious coder & design dreamer in the DMV ✨</em></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bobabear&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ About Me
+- 🎀 Blending tech & design to craft delightful experiences  
+- 💻 Studying Computer Science & Design Thinking @ George Mason University  
+- 🎨 Passionate about UX/UI, graphic design, & problem-solving  
+- 🚀 Building cool projects & learning something new every day  
+- 📍 Based in the DMV area — always down to collaborate!
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:amanda@example.com"><img src="https://img.shields.io/badge/Email-Say Hello!-#D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <!-- add more badges as you wish -->
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bobabear&show_icons=true&theme=chakra-ui" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bobabear&theme=chakra-ui" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌟 Top Repositories
+<p align="center">
+  <a href="https://github.com/bobabear/bobabear">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobabear&repo=bobabear&theme=chakra-ui" alt="bobabear Repo" />
+  </a>
+  <a href="https://github.com/bobabear/Profile-Card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bobabear&repo=Profile-Card&theme=chakra-ui" alt="Profile-Card Repo" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for stopping by! 🥰</em>
+</p>
