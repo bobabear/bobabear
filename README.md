@@ -23,7 +23,7 @@
 ## 🌸🦋 Connect With Me 🦋🌸
 <p align="center">
   <!-- LinkedIn Badge (no change) -->
-  <a href="https://www.linkedin.com/in/your-linkedin" style="margin: 0 8px;">
+  <a href="https://www.linkedin.com/in/amandaachu/" style="margin: 0 8px;">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=FFC0CB"
       alt="LinkedIn"
@@ -31,10 +31,10 @@
   </a>
   
   <!-- Email Badge in a pink box -->
-  <a href="mailto:amanda@example.com" style="margin: 0 8px; text-decoration: none;">
+  <a href="mailto:amandaachuu@gmail.com" style="margin: 0 8px; text-decoration: none;">
     <div
       style="
-        display: inline-block;
+        display: flex;
         border: 2px solid #FFC0CB;
         border-radius: 10px;
         padding: 4px 8px;
