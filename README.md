@@ -22,13 +22,32 @@
 
 ## 🌸🦋 Connect With Me 🦋🌸
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=FFC0CB" alt="LinkedIn"/>
+  <!-- LinkedIn Badge (no change) -->
+  <a href="https://www.linkedin.com/in/your-linkedin" style="margin: 0 8px;">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=FFC0CB"
+      alt="LinkedIn"
+    />
   </a>
-  <a href="mailto:amanda@example.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-#D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FFB6C1" alt="Email"/>
+  
+  <!-- Email Badge in a pink box -->
+  <a href="mailto:amanda@example.com" style="margin: 0 8px; text-decoration: none;">
+    <div
+      style="
+        display: inline-block;
+        border: 2px solid #FFC0CB;
+        border-radius: 10px;
+        padding: 4px 8px;
+      "
+    >
+      <img
+        src="https://img.shields.io/badge/Email-Say%20Hello-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Email"
+      />
+    </div>
   </a>
 </p>
+
 
 ---
 
