@@ -23,9 +23,14 @@
 <hr style="border:2px solid #FFC0CB;" />
 
 ## 📊 GitHub Sparkles ✨
-<img src="https://github-readme-stats.vercel.app/api?username=bobabear&hide_border=true&bg_color=FFC0CB&title_color=000000&text_color=000000" alt="GitHub Stats" width="48%" />  <img src="https://nirzak-streak-stats.vercel.app/?user=bobabear&hide_border=true&bg_color=FFC0CB&title_color=ffffff&text_color=ffffff" alt="Streak Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bobabear&hide_border=true&bg_color=FFC0CB&title_color=000000&text_color=000000" alt="GitHub Stats" width="48%" />  <img src="https://nirzak-streak-stats.vercel.app/?user=bobabear&hide_border=true&bg_color=FFC0CB&title_color=000000&text_color=000000" alt="Streak Stats" width="48%" />
 
 <hr style="border:2px solid #FFC0CB;" />
+
+<p align="center">
+  🌺🌺 Thanks for visiting! 🌺🌺
+</p>
+
 
 
 
