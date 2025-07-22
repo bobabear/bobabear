@@ -12,7 +12,7 @@
 <hr style="border:2px solid #FFC0CB;" />
 
 ## 🌟 Let’s Connect 🌟
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandaachu) [![Gmail](https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=black)](mailto:amandaachuu04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandaachu) [![Gmail](https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=black)](mailto:amandaachuu@gmail.com)
 
 <hr style="border:2px solid #FFC0CB;" />
 
