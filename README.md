@@ -16,7 +16,7 @@
 
 <hr style="border:2px solid #FFC0CB;" />
 
-## 💻 Techie Toolkit 🛠️
+## 💻 Tech Stack 🛠️
 ![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge)  ![Java](https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge)  ![C](https://img.shields.io/badge/C-FFC0CB?style=for-the-badge)  ![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge)  ![CSS3](https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge)  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-FFC0CB?style=for-the-badge)  ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FFC0CB?style=for-the-badge)  ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FFC0CB?style=for-the-badge)  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FFC0CB?style=for-the-badge)  ![Figma](https://img.shields.io/badge/Figma-FFC0CB?style=for-the-badge) ![Framer](https://img.shields.io/badge/Framer-FFC0CB?style=for-the-badge) ![Canva](https://img.shields.io/badge/Canva-FFC0CB?style=for-the-badge)  
   
 
